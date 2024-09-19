@@ -4,8 +4,14 @@
     padding: 0;
     box-sizing: 0;
 }
-
+/* 1rem = 16 px
+40px = 2,5rem */
 header{
     background-image: url(./imagens/img.png);
     background-size: cover;
+    height: 8.375rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
